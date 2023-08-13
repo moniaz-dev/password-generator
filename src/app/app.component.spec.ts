@@ -1,6 +1,8 @@
 import { TestBed } from "@angular/core/testing";
 import { AppComponent } from "./app.component";
 
+// TODO: Implement component tests
+
 describe("AppComponent", () => {
     beforeEach(() => TestBed.configureTestingModule({
         declarations: [AppComponent]
