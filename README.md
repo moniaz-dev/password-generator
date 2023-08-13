@@ -1,4 +1,9 @@
-# PasswordGenerator
+# Password Generator
+
+Utility application to generate new passwords.
+
+This was an assignment project completed as part of an Angular course.
+It uses fundamental Angular concepts like component classes and component templates, property and event bindings.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
